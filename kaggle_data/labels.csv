@@ -1,0 +1,39 @@
+ClassId,Name
+0,Speed limit (5km/h)
+1,Speed limit (15km/h)
+2,Speed limit (30km/h)
+3,Speed limit (40km/h)
+4,Speed limit (50km/h)
+5,Speed limit (60km/h)
+6,Speed limit (70km/h)
+7,speed limit (80km/h)
+10,Dont Go straight
+11,Dont Go Left
+12,Dont Go Left or Right
+13,Dont Go Right
+14,Dont overtake from Left
+16,No Car
+17,No horn
+24,Go Right
+26,keep Right
+27,Roundabout mandatory
+28,watch out for cars
+29,Horn
+30,Bicycles crossing
+31,Uturn
+34,Danger Ahead
+35,Zebra Crossing
+36,Bicycles crossing
+37,Children crossing
+38,Dangerous curve to the left
+39,Dangerous curve to the right
+40,Unknown1
+42,Unknown3
+43,Go right or straight
+44,Go left or straight
+49,Unknown5
+50,Fences
+52,Unknown6
+54,No stopping
+55,No entry
+56,Unknown7
